@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+position: absolute;
+width: 550px;
+height: 550px;
+left: 88px;
+top: 45px;
+background: #FBF7EE;
+}
+
+.light{
+
+position: absolute;
+width: 550px;
+height: 550px;
+left: 88px;
+top: 45px;
+
+background: #FBF7EE;
+
+}
+
+.main{
+position: absolute;
+width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+
+}
+
+#heading{
+position: absolute;
+width: 448.4px;
+height: 38px;
+left: 51px;
+top: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+}
+
+#number-to-convert{
+    /* number to convert */
+
+
+position: absolute;
+width: 211px;
+height: 51.23px;
+left: 169px;
+top: 155px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 24px;
+/* or 25% */
+
+text-align: center;
+
+color: #1a1919;
+
+}
+
+.background{
+    /* background */
+
+
+position: absolute;
+width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+.results{
+    /* results */
+position: absolute;
+width: 346px;
+height: 215px;
+left: 102px;
+top: 297px;
+}
+
+.conversion-results{
+
+width: 346px;
+height: 51px;
+left: 102px;
+top: 461px;
+}
+
+.supporting-text1{
+
+width: 346px;
+height: 25px;
+left: 102px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+text-align: center;
+color: #1A1921;
+}
+
+.supporting-text2{
+
+width: 346px;
+height: 21px;
+left: 102px;
+top: 491px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+text-align: center;
+
+color: #4E4E4E;
+}
